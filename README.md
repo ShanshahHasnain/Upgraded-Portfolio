@@ -40,7 +40,7 @@ src/
 ---
 
 ## 🌍 Live Demo
-👉 [View Live Portfolio](https://your-live-link.com)
+👉 [View Live Portfolio](https://upgrade-portfolio.netlify.app/)
 
 ---
 
