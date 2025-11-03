@@ -46,7 +46,7 @@ src/
 
 ## 📫 Contact Me
 💌 **Email:** shanshahhasnain2007@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/shanshah-hasnain](https://www.linkedin.com/in/shanshah-hasnain)  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/shanshah-muhammad-hasnain/)  
 
 ---
 
